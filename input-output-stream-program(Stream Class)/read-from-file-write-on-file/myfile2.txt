@@ -1,0 +1,6 @@
+my
+java
+program
+on
+input
+output
